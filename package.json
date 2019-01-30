@@ -1,11 +1,12 @@
 {
-  "name": "tutorial",
+  "name": "webapp",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.13.3"
+    "express": "4.16.4"
+    "express-validator": "5.3.1"
   }
 }
